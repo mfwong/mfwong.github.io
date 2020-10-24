@@ -1,2 +1,2 @@
-mfwong.github.io
+mfwong.com
 ================
